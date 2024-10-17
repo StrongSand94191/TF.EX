@@ -11,7 +11,7 @@
 	  <PackageReference Include="DeepEqual" Version="4.2.1" />
 	  <PackageReference Include="LazyCache" Version="2.4.0" />
 	  <PackageReference Include="LazyCache.AspNetCore" Version="2.4.0" />
-	  <PackageReference Include="MessagePack" Version="2.4.59" />
+	  <PackageReference Include="MessagePack" Version="2.5.187" />
 	  <PackageReference Include="MessagePackAnalyzer" Version="2.5.129">
 	    <PrivateAssets>all</PrivateAssets>
 	    <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
